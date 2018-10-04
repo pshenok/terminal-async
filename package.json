@@ -1,0 +1,24 @@
+{
+  "name": "terminal-async",
+  "version": "1.0.1",
+  "description": "Asynchronous library for working with the command line or terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshenok/terminal-async.git"
+  },
+  "keywords": [
+    "terminal",
+    "cmd",
+    "async"
+  ],
+  "author": "pshenOk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshenok/terminal-async/issues"
+  },
+  "homepage": "https://github.com/pshenok/terminal-async#readme"
+}
